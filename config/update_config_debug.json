@@ -1,0 +1,140 @@
+{
+        "version": 0,
+        "update_information": [
+            {
+                "channel_name": "gb",
+                "change_logs": {
+                    "default": "- Self Destructive Message\n - Stunning Dynamic Themes\n - Optimize memory usage\n and more ...",
+                    "pt": "- Mensagem autodestrutiva\n- Temas din\u00e2micos impressionantes\n- Otimize o uso de mem\u00f3ria\n- e mais ...",
+                    "id": "- Pesan Merusak Diri Sendiri\n- Tema Dinamis yang Menakjubkan\n- Mengoptimalkan penggunaan memori\n- dan banyak lagi ...",
+                    "es": "- Mensaje autodestructivo\n- Temas din\u00e1micos impresionantes\n- Optimice el uso de la memoria\n- y m\u00e1s ..."
+                },
+                "official_website": "https://play.google.com/store/apps/details?id=com.heymods.gbwa.yowa.waplus.updater&referrer=utm_source%3Dheymods_update%26utm_medium%3Dgb",
+                "force_update_version_codes": [
+                    920000,
+                    930000,
+                    940000,
+                    950000,
+                    950001,
+                    960000,
+                    970000,
+                    970001,
+                    980000,
+                    990000
+                ],
+                "update_package": {
+                    "1290009": {
+                        "url": "http://192.168.50.200:8000/12.90-12.99.apk",
+                        "md5": "6f449c8bc1743cb53582767ea352724e"
+                    },
+                    "complete": {
+                        "url": "https://github.com/heymods/hm/releases/download/13.10.2_Release/GBWhatsAppByHeyMods_com.gbwhatsapp_20201124_13.10.2_Release.apk",
+                        "md5": "e79dcdd56c7ab8febaa6b0f4b6f25dd1"
+                    }
+                },
+                "update_version_code": 1310020,
+                "update_version_name": "13.10.2",
+                "retry_limit": 3
+            }
+        ],
+        "strategy_information": {
+        "expire_date": {
+            "189": "2020/11/26 15:27:07",
+            "201": "2020/11/26 15:27:07",
+            "206": "2020/11/26 15:27:07"
+        },
+        "level": {
+            "radical": {
+                "interval": [
+                    0,
+                    30
+                ],
+                "notification": {
+                    "title": {
+                        "default": "Update GBWhatsApp to avoid losing contacts and messages",
+                        "pt": "Update GBWhatsApp to avoid losing contacts and messages",
+                        "id": "Update GBWhatsApp to avoid losing contacts and messages",
+                        "es": "Update GBWhatsApp to avoid losing contacts and messages"
+                    },
+                    "content": {
+                        "default": "Update GBWhatsApp to avoid losing contacts and messages",
+                        "pt": "Update GBWhatsApp to avoid losing contacts and messages",
+                        "id": "Update GBWhatsApp to avoid losing contacts and messages",
+                        "es": "Update GBWhatsApp to avoid losing contacts and messages"
+                    },
+                    "type": 1
+                },
+                "snackbar": {
+                    "hint": {
+                        "default": "GBWhatsApp will be expired in %1$s days",
+                        "pt": "GBWhatsApp will be expired in %1$s days",
+                        "id": "GBWhatsApp will be expired in %1$s days",
+                        "es": "GBWhatsApp will be expired in %1$s days"
+                    },
+                    "rolling": [
+                        {
+                            "default": "Cannot send / receive messages anymore",
+                            "pt": "Cannot send / receive messages anymore",
+                            "id": "Cannot send / receive messages anymore",
+                            "es": "Cannot send / receive messages anymore"
+                        },
+                        {
+                            "default": " Lost ALL WhatsApp contacts",
+                            "pt": "Lost ALL WhatsApp contacts",
+                            "id": "Lost ALL WhatsApp contacts",
+                            "es": "Lost ALL WhatsApp contacts"
+                        },
+                        {
+                            "default": "Lost ALL status you have",
+                            "pt": "Lost ALL status you have",
+                            "id": "Lost ALL status you have",
+                            "es": "Lost ALL status you have"
+                        },
+                        {
+                            "default": "Lost ALL themes you created or downloaded",
+                            "pt": "Lost ALL themes you created or downloaded",
+                            "id": "Lost ALL themes you created or downloaded",
+                            "es": "Lost ALL themes you created or downloaded"
+                        }
+                    ],
+                    "interval": 0
+                },
+                "full_screen_cover": {
+                    "display_count": 5,
+                    "display_interval": 30
+                }
+            },
+            "active": {
+                "interval": [
+                    31,
+                    90
+                ],
+                "snackbar": {
+                    "hint": {
+                        "default": "GBWhatsApp will be expired in %1$s days",
+                        "pt": "GBWhatsApp will be expired in %1$s days",
+                        "id": "GBWhatsApp will be expired in %1$s days",
+                        "es": "GBWhatsApp will be expired in %1$s days"
+                    },
+                    "rolling": [
+                        {
+                            "default": "click here to update",
+                            "pt": "click here to update",
+                            "id": "click here to update",
+                            "es": "click here to update"
+                        }
+                    ],
+                    "interval": 24
+                }
+            },
+            "common": {
+                "interval": [
+                    91,
+                    365
+                ]
+            }
+        }
+    },
+        "dt": "2020/12/10 00:23:28",
+        "ver": 18
+    }
